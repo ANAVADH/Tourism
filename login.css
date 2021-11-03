@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 3px;
+    padding: 1px;
     box-sizing: border-box;
    
 }
@@ -28,6 +28,7 @@ body{
     background-color:rgb(226, 226, 226);
     border-radius: 40px;
     box-shadow: 12px 12px 22px grey;
+    
 }
 .btn1{
     border: none;
